@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I changed my github username. Checkout my profile here [@eliahreeves](https://github.com/eliahreeves).
 <!--
 **nunibye/nunibye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
